@@ -1,0 +1,7 @@
+<h3 class="btn"><a href=""><i class="icon1 fas fa-th-large"> Dashboard</i></a></h3>
+                    <h3 class="btn"><a href=""><i class="icon1 fas fa-sync-alt"> Transaction</i></a></h3>
+                    <h3 class="btn"><a href=""><i class="icon1 fab fa-telegram-plane"> Message</i></a></h3>
+                    <h3 class="btn"><a href=""><i class="icon1 fas fa-user"> Profile</i></a></h3>
+                    <h3 class="btn"><a href=""><i class="icon1 fas fa-money-check"> Payement</i></a></h3>
+                    <h3 class="btn"><a href=""><i class="icon1 fas fa-cog"> Settings</i></a></h3>
+                    <h3 class="btn"><a href=""><i class="icon1 fas fa-sign-out-alt"> Logout</i></a></h3>
